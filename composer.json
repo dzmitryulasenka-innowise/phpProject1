@@ -1,0 +1,15 @@
+{
+    "name": "dmitry/php-project1",
+    "autoload": {
+        "psr-4": {
+            "Dmitry\\PhpProject1\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "dzmitryulasenka-innowise",
+            "email": "dzmitry.ulasenka@innowise.com"
+        }
+    ],
+    "require": {}
+}
